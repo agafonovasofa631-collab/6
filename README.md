@@ -266,4 +266,4 @@
 ---
 
 **Ссылка на Git-репозиторий с кодом программы:**  
-https://github.com/agafonovasofa631-collab/5.git
+https://github.com/agafonovasofa631-collab/6.git
